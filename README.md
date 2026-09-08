@@ -45,7 +45,7 @@ The screenshots support a contemporaneous record of the displayed material. They
 
 ## Provenance and preservation
 
-`IMAGE_MANIFEST.csv` maps each public filename to its supplied source filename, SHA-256 digest, subject, and description. The six supplied JPEG byte streams were republished under stable, business-readable names; the image content was not semantically edited.
+`IMAGE_MANIFEST.csv` maps each public filename to its supplied source filename, input SHA-256, published SHA-256, byte counts, operation, subject, and description. The six supplied screenshots were republished under stable, business-readable names. Two remain byte-identical; three larger JPEGs were normalized for publication with standard JPEG encoding and metadata stripping so the repository remains portable. No crop, text, or semantic content was changed, and the operation column records the distinction.
 
 A SHA-256 digest establishes exact file identity for the bytes that were published. It does not establish that a displayed count, interpretation, or model-capability statement is factually correct. Reviewers should cite the repository path, commit, screenshot context, and any supporting public artifact together.
 
