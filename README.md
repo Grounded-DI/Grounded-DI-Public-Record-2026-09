@@ -1,12 +1,75 @@
 # Grounded DI — September 2026 Public Record
 
-Grounded DI LLC’s dated public archive for September 2026. This record preserves six supplied screenshots documenting public discussion, displayed replay evidence, runtime continuity, and the distinction between a governed work product and a theoretical AGI work product.
+Grounded DI LLC’s dated public archive for September 2026. This archive brings together dated public records, replay evidence, and supporting provenance. It currently indexes the 9 September BriefWise DI² replay release and preserves the 8 September screenshot record.
 
 **Operator / record owner:** Mark S. Weinstein / Grounded DI LLC  
-**Publication date:** 8 September 2026  
-**Record type:** dated public screenshots and accompanying provenance manifest
+**Initial publication:** 8 September 2026  
+**Last updated:** 9 September 2026  
+**Record type:** chronological public archive with linked replay artifacts, screenshots, and provenance
 
-## What this record preserves
+## 9 September — BriefWise DI² fresh local deterministic replay
+
+**FastPath · Kernel 0.2.0 · Synthetic matter `synthetic-matter-001`**
+
+A fresh local BriefWise kernel evaluation reproduced the saved synthetic matter’s controlled state, authorization result, canonical replay identity, and bound export manifest. The regenerated replay-identity bytes matched the original exactly. An in-memory alteration of committed content was rejected, and the untouched original passed reverification.
+
+**Classification:** VERIFIED — FRESH LOCAL REPLAY for this saved synthetic snapshot. External independent verification remains UNVERIFIED.
+
+### Published evidence
+
+| Artifact | Public record |
+|---|---|
+| Public evidence ZIP | [BriefWise_DI2_Fresh_Local_Replay_2026-09-09_Public.zip](https://github.com/Grounded-DI/grounded-di-replay-certificate-registry/blob/0eeeabdc7c09dc607b86689027d085482e24d587/BriefWise_DI2_Fresh_Local_Replay_2026-09-09_Public.zip) |
+| ZIP checksum | [SHA-256 checksum file](https://github.com/Grounded-DI/grounded-di-replay-certificate-registry/blob/0eeeabdc7c09dc607b86689027d085482e24d587/BriefWise_DI2_Fresh_Local_Replay_2026-09-09_Public.zip.sha256.txt) |
+| Full release post | [BriefWise DI² GitHub post](https://github.com/Grounded-DI/grounded-di-replay-certificate-registry/blob/0eeeabdc7c09dc607b86689027d085482e24d587/BriefWise_DI2_GitHub_Post.md) |
+
+These links are pinned to the [publication commit](https://github.com/Grounded-DI/grounded-di-replay-certificate-registry/commit/0eeeabdc7c09dc607b86689027d085482e24d587). The [replay certificate registry](https://github.com/Grounded-DI/grounded-di-replay-certificate-registry) is the canonical evidence location; this September archive provides the dated entry. Cross-posting or mirroring this release does not constitute another experiment or independent verification.
+
+### Recorded checks
+
+- Fresh evaluation and controlled-state reproduction: **PASS**.
+- Matter, committed content, evaluation, gates, rule pack, capability profile, and source snapshot record bindings: **PASS**.
+- Fresh authorization and export-manifest reproduction: **PASS**.
+- Canonical replay identity and replay certificate: **PASS**, with exact byte matches.
+- Complete event-chain verification from GENESIS: **PASS — 9 events**.
+- In-memory committed-content tamper: **REJECTED**.
+- Original files unchanged and original-state reverification: **PASS**.
+
+Exact tamper rejection: `replay verification failed: stored evaluation diverges from fresh kernel evaluation`.
+
+### Hashes and serialization
+
+**Serialization:** `BW-JCS-NFC-LF-1`
+
+**Expected and regenerated replay-identity SHA-256:**
+
+`aa66baca6feaa5dc17aff300ded2f10591cefcdb7b6044e106741921273f0daf`
+
+**Public ZIP SHA-256:**
+
+`0975685e081ea67bbc2d250e2d12c1ad6a05b55126f2493735c0fafdc82cc9b7`
+
+The replay-identity hash identifies the canonical replay record. The ZIP hash identifies the complete publication archive. They cover different bytes.
+
+### Package contents and verification
+
+The ZIP includes the original synthetic bundle, regenerated evaluation and authorization artifacts, replay identity and certificate, export manifest, execution provenance, report, checksums, and a standalone Python checker.
+
+After extraction, `python3 verify_package.py` checks public file integrity, exact replay-artifact byte matches, original bundle hashes, and the nine-event hash chain. The extracted package passed this check; a deliberately altered extracted file was rejected.
+
+The included checker does **not** execute the BriefWise rule kernel. Fresh kernel execution is documented separately in the saved report. Repeating that full evaluation requires the matching kernel and export implementation, which are not included in the ZIP.
+
+### Scope and preservation
+
+This is a synthetic demonstration using the existing local rule implementation. The committed sample text was manually imported. The labels `FILING_READY` and `FILING` describe synthetic kernel outputs; the capability profile has `release_capable=false`.
+
+Underlying source-file bytes were unavailable. Their authenticity, historical authorship, external authorization provenance, and the native application’s current live storage remain UNVERIFIED. No legal correctness, real filing permission, identical model generation, private model reasoning replay, or independently implemented legal evaluation is claimed.
+
+A personal Mac path was replaced in the public provenance copy, with the change disclosed in `PUBLICATION_NOTES.md`. Hash-bound artifacts were preserved unchanged. The package supplies a new public checksum inventory and retains the original inventory under a distinct filename. Credentials, application configuration, databases, and backups are excluded.
+
+## 8 September — Screenshot record
+
+### What this record preserves
 
 The archive is intentionally narrow. It records what was publicly displayed or discussed at the time, including:
 
@@ -49,7 +112,7 @@ The screenshots support a contemporaneous record of the displayed material. They
 
 A SHA-256 digest establishes exact file identity for the bytes that were published. It does not establish that a displayed count, interpretation, or model-capability statement is factually correct. Reviewers should cite the repository path, commit, screenshot context, and any supporting public artifact together.
 
-This archive contains the six supplied screenshots only. Private audit dossiers, credentials, and unpublished evidence are outside the scope of this repository.
+The 8 September screenshot collection contains the six supplied screenshots. The 9 September entry above links to the separately published replay evidence. Private audit dossiers, credentials, and unpublished evidence are outside the scope of this repository.
 
 ## Related public records
 
