@@ -1,11 +1,17 @@
 # Grounded DI — September 2026 Public Record
 
-Grounded DI LLC’s dated public archive for September 2026. This archive brings together dated public records, replay evidence, and supporting provenance. It currently indexes the 9 September BriefWise DI² replay release and preserves the 8 September screenshot record.
+Grounded DI LLC’s dated public archive for September 2026. This archive brings together dated public records, replay evidence, and supporting provenance. It indexes the 11 September screenshot collection and the 9 September BriefWise DI² replay release, and preserves the 8 September screenshot record.
 
 **Operator / record owner:** Mark S. Weinstein / Grounded DI LLC  
 **Initial publication:** 8 September 2026  
-**Last updated:** 9 September 2026  
+**Last updated:** 11 September 2026  
 **Record type:** chronological public archive with linked replay artifacts, screenshots, and provenance
+
+## 11 September — Research, replay, safety and public commentary
+
+Ten screenshots are now preserved in the [11 September collection and gallery](records/2026-09-11/README.md), with descriptive filenames, original image bytes and an [image manifest](records/2026-09-11/IMAGE_MANIFEST.csv).
+
+The collection covers the XT-003E Riemann ξ research checkpoint, Grounded DI OS news and replay demonstration, legal-workflow audit commentary, engineering-based AI safety, the public benchmark-audit record, and two poems. Three detail/feed pairs are retained as separate captures, not counted as separate experiments. The filename date is the archive publication date.
 
 ## 9 September — BriefWise DI² fresh local deterministic replay
 
