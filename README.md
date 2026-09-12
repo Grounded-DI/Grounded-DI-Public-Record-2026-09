@@ -1,11 +1,31 @@
 # Grounded DI — September 2026 Public Record
 
-Grounded DI LLC’s dated public archive for September 2026. This archive brings together dated public records, replay evidence, and supporting provenance. It indexes the 11 September screenshot collection and the 9 September BriefWise DI² replay release, and preserves the 8 September screenshot record.
+Grounded DI LLC’s dated public archive for September 2026. This archive brings together dated public records, replay evidence, and supporting provenance. It indexes the 12 September nine-post screenshot collection, the 11 September screenshot collection, the 9 September BriefWise DI² replay release, and the 8 September screenshot record.
 
 **Operator / record owner:** Mark S. Weinstein / Grounded DI LLC  
 **Initial publication:** 8 September 2026  
-**Last updated:** 11 September 2026  
+**Last updated:** 12 September 2026  
 **Record type:** chronological public archive with linked replay artifacts, screenshots, and provenance
+
+## 12 September — Nine-post public record
+
+Nine supplied screenshots are preserved in the [12 September collection and gallery](records/2026-09-12/README.md), with stable archive filenames, original image bytes, a source manifest and SHA-256 checksums.
+
+The collection records public Grounded DI posts covering positioning, product commentary, creative commentary, a replay demonstration, legal-workflow risk, engineering-based AI safety, public benchmark claims, authorization boundaries, and ShoppingWise. The archive preserves what the screenshots display; it does not independently verify the underlying product, legal, benchmark, market-statistic or safety claims.
+
+| # | Subject | Classification |
+|---:|---|---|
+| 1 | [“Precision doesn’t infer. It traces.”](records/2026-09-12/README.md#1-precision-doesnt-infer-it-traces) | Public positioning and surrounding-feed commentary |
+| 2 | [Deterministic News Update](records/2026-09-12/README.md#2-deterministic-news-update) | Product-positioning statement |
+| 3 | [“The Sins of the Probabilistic Token” and “DI’s Shield”](records/2026-09-12/README.md#3-the-sins-of-the-probabilistic-token-and-dis-shield) | Creative commentary |
+| 4 | [Grounded DI OS replay demonstration](records/2026-09-12/README.md#4-grounded-di-os-autonomous-replay-demonstration) | Demonstration description |
+| 5 | [Legal-workflow audit commentary](records/2026-09-12/README.md#5-legal-workflow-audit-commentary) | Conditional legal-risk commentary |
+| 6 | [AI safety: engineering, not revenue](records/2026-09-12/README.md#6-ai-safety-engineering-not-revenue) | Policy position |
+| 7 | [Grounded DI public evidence and benchmark audit](records/2026-09-12/README.md#7-grounded-di-public-evidence-and-benchmark-audit) | Company statement and qualified internal-audit claim |
+| 8 | [Observe, authorize, execute — ShieldBot](records/2026-09-12/README.md#8-observe-authorize-execute-shieldbot) | Safety and authorization commentary |
+| 9 | [ShoppingWise](records/2026-09-12/README.md#9-shoppingwise) | Product concept and market commentary |
+
+The date prefix on these filenames identifies the archive publication batch. It is not an inferred platform posting date.
 
 ## 11 September — Research, replay, safety and public commentary
 
