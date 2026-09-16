@@ -1,0 +1,6 @@
+1eaedbcb619d6925d38d012961d2401e2f54485aa762a0ef8c5943bee1ae5717  images/2026-09-16_determinism-is-becoming-a-stack_post.jpeg
+793623a5e96f8e0c87324a01080ecd1e84de8f91a4a795811616d120763ad05d  images/2026-09-16_determinism-is-becoming-a-stack_graphic.jpeg
+c836ae0e91f280cbab62936d2f9ce2250a40330de09f009cd63e34ae2ed16dee  images/2026-09-16_generation-is-easy-release-is-governed_post.jpeg
+82f2429684c6216837c88004e2dcb8a20a704a0047ddff12047cd3d6ba548ff3  images/2026-09-16_generation-is-easy-release-is-governed_graphic.jpeg
+c82e1ef0a96b945022ec5cfc11eb63c37419d13869e1ac49c970e554981811c1  images/2026-09-16_cognitive-operator-layer-v0-1_post.jpeg
+91f7aeebfb6ca21480d1569878048bc06edb0a1bfe70cd3ca5897e8489f93929  images/2026-09-16_deterministic-robot_top-5-things-obvious-by-2035.jpeg

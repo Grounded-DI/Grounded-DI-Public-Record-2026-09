@@ -1,11 +1,28 @@
 # Grounded DI — September 2026 Public Record
 
-Grounded DI LLC’s dated public archive for September 2026. This archive brings together dated public records, replay evidence, and supporting provenance. It indexes the 12 September nine-post screenshot collection, the 11 September screenshot collection, the 9 September BriefWise DI² replay release, and the 8 September screenshot record.
+Grounded DI LLC’s dated public archive for September 2026. This archive brings together dated public records, replay evidence, and supporting provenance. It indexes the 16 September six-image public record, the 12 September nine-post screenshot collection, the 11 September screenshot collection, the 9 September BriefWise DI² replay release, and the 8 September screenshot record.
 
 **Operator / record owner:** Mark S. Weinstein / Grounded DI LLC  
 **Initial publication:** 8 September 2026  
-**Last updated:** 12 September 2026  
+**Last updated:** 16 September 2026<br>
 **Record type:** chronological public archive with linked replay artifacts, screenshots, and provenance
+
+## 16 September — Six-image public record
+
+Six supplied JPEG captures are preserved in the [16 September collection and gallery](records/2026-09-16/README.md), with one individual review README per capture, stable archive filenames, a source manifest and SHA-256 checksums. The set contains four substantive content units plus two separately supplied detail captures; the detail captures are retained separately and are not counted as separate substantive posts.
+
+The collection records public Grounded DI positioning about a determinism stack, governance around AI execution and release, an explicitly unbenchmarked Cognitive Operator Layer design candidate, and a structured 2035 future forecast. The archive preserves what the images display; it does not independently verify the underlying architecture, product, safety, capability, experimental-design or forecast claims.
+
+| # | Subject | Classification |
+|---:|---|---|
+| 1 | [Reasoning-to-governance post capture](records/2026-09-16/01-determinism-is-becoming-a-stack-post/README.md) | Public positioning and conceptual architecture |
+| 2 | [Determinism Is Becoming a Stack detail capture](records/2026-09-16/02-determinism-is-becoming-a-stack-graphic/README.md) | Graphic-only companion capture |
+| 3 | [Governed-release post capture](records/2026-09-16/03-generation-is-easy-release-is-governed-post/README.md) | Governance and release-control positioning |
+| 4 | [Generation Is Easy. Release Is Governed. detail capture](records/2026-09-16/04-generation-is-easy-release-is-governed-graphic/README.md) | Graphic-only companion capture |
+| 5 | [Cognitive Operator Layer v0.1 post capture](records/2026-09-16/05-cognitive-operator-layer-v0-1/README.md) | Explicitly unbenchmarked experimental design record |
+| 6 | [Deterministic Robot 2035 forecast post capture](records/2026-09-16/06-deterministic-robot-top-5-by-2035/README.md) | Structured speculative forecast |
+
+The date prefix on these filenames identifies the archive publication batch. It is not an inferred platform posting date.
 
 ## 12 September — Nine-post public record
 
