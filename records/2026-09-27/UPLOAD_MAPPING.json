@@ -1,0 +1,79 @@
+{
+  "archive_date": "2026-09-27",
+  "received_uploads": 9,
+  "unique_images": 8,
+  "duplicates": [
+    {
+      "upload": "10-IMG_8981.jpeg",
+      "identical_to": "01-IMG_8981.jpeg",
+      "archived_as": "01-threads-information-output-and-agent-drift.jpeg",
+      "sha256": "db53f7899841e0aa2060a5a93d7f9055dfeb1ab21aab991c5dd52b9d8a297d5c"
+    }
+  ],
+  "images": [
+    {
+      "public_filename": "01-threads-information-output-and-agent-drift.jpeg",
+      "source_filename": "IMG_8981.jpeg",
+      "sha256": "db53f7899841e0aa2060a5a93d7f9055dfeb1ab21aab991c5dd52b9d8a297d5c",
+      "bytes": 986349,
+      "subject": "Threads: information outputs and agent drift",
+      "description": "Company commentary with an embedded September 17 post."
+    },
+    {
+      "public_filename": "02-cross-thread-canonical-record-and-sha256.jpeg",
+      "source_filename": "IMG_8989.jpeg",
+      "sha256": "5985e9778ff42fb384bdd7fdddcc963d34244a42925d82f8c3a9e52f17f6bb00",
+      "bytes": 806217,
+      "subject": "Cross-thread canonical record and SHA-256",
+      "description": "Screenshot reports matching canonical records and SHA-256 for 5.6 Thinking Medium and 6 Sol Medium; the underlying runs were not rerun for this archive."
+    },
+    {
+      "public_filename": "03-company-description-in-google-ai-mode.jpeg",
+      "source_filename": "IMG_8988.jpeg",
+      "sha256": "e49cb0009c0390a170d44a0f073aa90bcfb8c562a4a1f2ac74baed7ad3d2cccb",
+      "bytes": 942805,
+      "subject": "Company description quoted from Google AI Mode",
+      "description": "Preserved as a public-facing AI-generated description, not an independent source or verification."
+    },
+    {
+      "public_filename": "04-legal-output-authority-and-release-controls.jpeg",
+      "source_filename": "IMG_8987.jpeg",
+      "sha256": "d8773a8c5f58990dc70b47134ddfcc8a1ef8c4547abc340984f9b4c7f39e3ffa",
+      "bytes": 245234,
+      "subject": "Legal output authority and release controls",
+      "description": "Company positioning distinguishes output/artifact controls from professional judgment."
+    },
+    {
+      "public_filename": "05-cognitive-execution-kernel-closure.jpeg",
+      "source_filename": "IMG_8986.jpeg",
+      "sha256": "e719f7e44ed28f7d35b524ffd18785f3472700f8e4010c9cd995f90f43568a80",
+      "bytes": 746235,
+      "subject": "Cognitive Execution Kernel closure",
+      "description": "Post displays an engineering closure report: 407 passed, one optional skip, and 18/18 detected mutations. Those are displayed report claims, not tests executed in this archiving pass."
+    },
+    {
+      "public_filename": "06-grounded-di-website-positioning.jpeg",
+      "source_filename": "IMG_8984.jpeg",
+      "sha256": "acab123755351762694e504b50a8dac1f9c1949edcd9701608d7ccb26ab2f5c8",
+      "bytes": 763637,
+      "subject": "Website and cross-domain positioning",
+      "description": "Company post and homepage capture for reasoning, verification and execution-control technology."
+    },
+    {
+      "public_filename": "07-x-information-output-and-agent-drift.jpeg",
+      "source_filename": "IMG_8983.jpeg",
+      "sha256": "61ed59cd332cf4905998c1d49a6e0f73c434c93d16ceabc4c792e38be727d1f6",
+      "bytes": 339631,
+      "subject": "X: information outputs and agent drift",
+      "description": "Separate X capture of the commentary also shown on Threads; retained as a distinct platform capture."
+    },
+    {
+      "public_filename": "08-auditable-replayable-robots-commentary.jpeg",
+      "source_filename": "IMG_8982.jpeg",
+      "sha256": "fcab3d4277f4f239374d91ed4ff7f63c64cbe1ad716891a2f65c2ba395b38ecc",
+      "bytes": 607439,
+      "subject": "Auditable and replayable robots commentary",
+      "description": "Cropped quote and response, including an embedded August 10 BriefWise post. The speaker of the upper quotation is not identified in the supplied crop."
+    }
+  ]
+}
