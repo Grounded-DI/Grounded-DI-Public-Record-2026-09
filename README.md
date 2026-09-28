@@ -1,10 +1,10 @@
 # Grounded DI — September 2026 Public Record
 
-Grounded DI LLC’s dated public archive for September 2026. This archive brings together dated public records, replay evidence, and supporting provenance. It indexes the 27 September eight-image collection (nine uploads, one exact duplicate), the 16 September six-image public record, the 12 September nine-post screenshot collection, the 11 September screenshot collection, the 9 September BriefWise DI² replay release, and the 8 September screenshot record.
+Grounded DI LLC’s dated public archive for September 2026. This archive brings together dated public records, replay evidence, and supporting provenance. It indexes the 27 September eight-image collection, the 24 September Philadelphia CEO Summit badge identification (nine uploads, one exact duplicate), the 16 September six-image public record, the 12 September nine-post screenshot collection, the 11 September screenshot collection, the 9 September BriefWise DI² replay release, and the 8 September screenshot record.
 
 **Operator / record owner:** Mark S. Weinstein / Grounded DI LLC  
 **Initial publication:** 8 September 2026  
-**Last updated:** 27 September 2026<br>
+**Last updated:** 28 September 2026<br>
 **Record type:** chronological public archive with linked replay artifacts, screenshots, and provenance
 
 ## 27 September — Social media record
@@ -12,6 +12,10 @@ Grounded DI LLC’s dated public archive for September 2026. This archive brings
 [Read the collection README and view the gallery](records/2026-09-27/README.md). Nine supplied uploads contain eight unique images; the repeated `IMG_8981.jpeg` is documented in the upload mapping. Original image bytes, a descriptive index, a provenance manifest and SHA-256 checksums are included.
 
 Topics include cross-thread canonical-record matching, legal output controls, Cognitive Execution Kernel closure, website positioning, information outputs versus agent drift, and auditable/replayable robots. A Google AI Mode description is archived as a displayed AI-generated statement, not independent corroboration. September 27 is the archive batch date; platform-relative timestamps are not converted into inferred posting dates.
+
+## 24 September — Philadelphia CEO Summit badge identification
+
+[Read the dated provenance entry](records/2026-09-24/README.md). The supplied, unaltered badge photograph identifies Mark S. Weinstein as “Attorney and Founder” of Grounded DI LLC. The entry records the source filename, byte count, and SHA-256. The photograph itself is not published here, and the event attribution comes from accompanying context. This records a public-format identification only; it does not establish endorsement, technical validation, or revenue.
 
 ## 16 September — Six-image public record
 
