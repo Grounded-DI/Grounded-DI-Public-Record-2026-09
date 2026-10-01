@@ -1,11 +1,17 @@
 # Grounded DI — September 2026 Public Record
 
-Grounded DI LLC’s dated public archive for September 2026. This archive brings together dated public records, replay evidence, and supporting provenance. It indexes the 27 September eight-image collection, the 24 September Philadelphia CEO Summit badge identification (nine uploads, one exact duplicate), the 16 September six-image public record, the 12 September nine-post screenshot collection, the 11 September screenshot collection, the 9 September BriefWise DI² replay release, and the 8 September screenshot record.
+Grounded DI LLC’s dated public archive for September 2026. This archive brings together dated public records, replay evidence, and supporting provenance. It indexes the 30 September seven-image collection, the 27 September eight-image collection, the 24 September Philadelphia CEO Summit badge identification (nine uploads, one exact duplicate), the 16 September six-image public record, the 12 September nine-post screenshot collection, the 11 September screenshot collection, the 9 September BriefWise DI² replay release, and the 8 September screenshot record.
 
 **Operator / record owner:** Mark S. Weinstein / Grounded DI LLC  
 **Initial publication:** 8 September 2026  
-**Last updated:** 28 September 2026<br>
+**Last updated:** 30 September 2026<br>
 **Record type:** chronological public archive with linked replay artifacts, screenshots, and provenance
+
+## 30 September — Auditable agents and public commentary
+
+[Read the seven-image collection and view the gallery](records/2026-09-30/README.md). Original JPEG bytes are preserved with descriptive filenames, searchable excerpts, a source manifest and SHA-256 checksums.
+
+Topics include a Dots weather-workflow report retaining negative results and missing-data limits, a Protocol A working-configuration exchange, permission versus correctness, auditability versus replayability, evidence and expectations, SportsWise resource tradeoffs, and PIDBot detector commentary. The gallery records displayed statements and report excerpts; it adds no independent verification of their underlying claims. September 30 identifies the archive batch, and relative platform timestamps remain as displayed.
 
 ## 27 September — Social media record
 
