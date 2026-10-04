@@ -100,7 +100,7 @@ The post jokes about PIDBot passing X's AI detector and displays an insulation-s
 
 ## Provenance and related records
 
-[Image manifest](IMAGE_MANIFEST.csv) maps original filenames to archive paths, byte counts, dimensions, visible date labels, content classifications and SHA-256 digests. [SHA-256 checksums](SHA256SUMS.txt) covers the seven images, this README and the manifest. From this directory, run:
+[Image manifest](IMAGE_MANIFEST.csv) maps original filenames to archive paths, byte counts, dimensions, visible date labels, content classifications and SHA-256 digests. [SHA-256 checksums](SHA256SUMS.txt) cover the seven images, this README and the manifest. From this directory, run:
 
 ```bash
 sha256sum -c SHA256SUMS.txt

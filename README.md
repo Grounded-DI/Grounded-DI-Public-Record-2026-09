@@ -1,6 +1,6 @@
 # Grounded DI — September 2026 Public Record
 
-Grounded DI LLC’s dated public archive for September 2026. This archive brings together dated public records, replay evidence, and supporting provenance. It indexes the 30 September seven-image collection, the 27 September eight-image collection, the 24 September Philadelphia CEO Summit badge identification (nine uploads, one exact duplicate), the 16 September six-image public record, the 12 September nine-post screenshot collection, the 11 September screenshot collection, the 9 September BriefWise DI² replay release, and the 8 September screenshot record.
+Grounded DI LLC’s dated public archive for September 2026. This archive brings together dated public records, replay evidence, and supporting provenance. It indexes the 30 September seven-image collection, the 27 September eight-image collection (nine uploads, one exact duplicate), the 24 September Philadelphia CEO Summit badge identification, the 16 September six-image public record, the 12 September nine-post screenshot collection, the 11 September screenshot collection, the 9 September BriefWise DI² replay release, and the 8 September screenshot record.
 
 **Operator / record owner:** Mark S. Weinstein / Grounded DI LLC  
 **Initial publication:** 8 September 2026  
