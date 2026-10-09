@@ -182,3 +182,8 @@ The 8 September screenshot collection contains the six supplied screenshots. The
 ## Public discovery tags
 
 #GroundedDI #DeterministicIntelligence #DeterministicAI #AuditableAI #ReplayableAI #AIProvenance #AIGovernance #AIEngineering
+
+
+## Curated mathematical collection
+
+The dated RH-001H / XT-003E public record is indexed in [MathWise Deterministic Replay Certificates](https://github.com/Grounded-DI/MathWise-Deterministic-Replay-Certificates/tree/main/rh-001h-xt-003e-public-record). This public-record repository remains canonical for the supplied capture and chronology.
