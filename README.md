@@ -1,6 +1,6 @@
 # Grounded DI — September 2026 Public Record
 
-Grounded DI LLC’s dated public archive for September 2026. This archive brings together dated public records, replay evidence, and supporting provenance. It indexes the 30 September seven-image collection, the 27 September eight-image collection (nine uploads, one exact duplicate), the 24 September Philadelphia CEO Summit badge identification, the 16 September six-image public record, the 12 September nine-post screenshot collection, the 11 September screenshot collection, the 9 September BriefWise DI² replay release, and the 8 September screenshot record.
+Grounded DI LLC’s dated public archive for September 2026. The archive indexes the 30 September seven-image collection, the 27 September eight-image collection (nine uploads, one exact duplicate), the 24 September Philadelphia CEO Summit badge identification, the 16 September six-image public record, the 12 September nine-post screenshot collection, the 11 September screenshot collection, the 9 September BriefWise DI² replay release, and the 8 September screenshot record.
 
 **Operator / record owner:** Mark S. Weinstein / Grounded DI LLC  
 **Initial publication:** 8 September 2026  
@@ -11,23 +11,23 @@ Grounded DI LLC’s dated public archive for September 2026. This archive brings
 
 [Read the seven-image collection and view the gallery](records/2026-09-30/README.md). Original JPEG bytes are preserved with descriptive filenames, searchable excerpts, a source manifest and SHA-256 checksums.
 
-Topics include a Dots weather-workflow report retaining negative results and missing-data limits, a Protocol A working-configuration exchange, permission versus correctness, auditability versus replayability, evidence and expectations, SportsWise resource tradeoffs, and PIDBot detector commentary. The gallery records displayed statements and report excerpts; it adds no independent verification of their underlying claims. September 30 identifies the archive batch, and relative platform timestamps remain as displayed.
+Topics include a Dots weather-workflow report retaining negative results and missing-data limits, a Protocol A working-configuration exchange, permission versus correctness, auditability versus replayability, evidence and expectations, SportsWise resource tradeoffs, and PIDBot detector commentary. The gallery preserves the displayed statements and report excerpts. September 30 identifies the archive batch, and relative platform timestamps remain as displayed.
 
 ## 27 September — Social media record
 
 [Read the collection README and view the gallery](records/2026-09-27/README.md). Nine supplied uploads contain eight unique images; the repeated `IMG_8981.jpeg` is documented in the upload mapping. Original image bytes, a descriptive index, a provenance manifest and SHA-256 checksums are included.
 
-Topics include cross-thread canonical-record matching, legal output controls, Cognitive Execution Kernel closure, website positioning, information outputs versus agent drift, and auditable/replayable robots. A Google AI Mode description is archived as a displayed AI-generated statement, not independent corroboration. September 27 is the archive batch date; platform-relative timestamps are not converted into inferred posting dates.
+Topics include cross-thread canonical-record matching, legal output controls, Cognitive Execution Kernel closure, website positioning, information outputs versus agent drift, and auditable/replayable robots. A Google AI Mode description is included as part of the displayed record. September 27 is the archive batch date; platform-relative timestamps remain as shown.
 
 ## 24 September — Philadelphia CEO Summit badge identification
 
-[Read the dated provenance entry](records/2026-09-24/README.md). The supplied, unaltered badge photograph identifies Mark S. Weinstein as “Attorney and Founder” of Grounded DI LLC. The entry records the source filename, byte count, and SHA-256. The photograph itself is not published here, and the event attribution comes from accompanying context. This records a public-format identification only; it does not establish endorsement, technical validation, or revenue.
+[Read the dated provenance entry](records/2026-09-24/README.md). The supplied, unaltered badge photograph identifies Mark S. Weinstein as “Attorney and Founder” of Grounded DI LLC. The entry records the source filename, byte count, and SHA-256. The photograph itself is not published here, and the event attribution comes from accompanying context. The badge is an external identification of Mark and Grounded DI in a public format.
 
 ## 16 September — Six-image public record
 
 Six supplied JPEG captures are preserved in the [16 September collection and gallery](records/2026-09-16/README.md), with one individual review README per capture, stable archive filenames, a source manifest and SHA-256 checksums. The set contains four substantive content units plus two separately supplied detail captures; the detail captures are retained separately and are not counted as separate substantive posts.
 
-The collection records public Grounded DI positioning about a determinism stack, governance around AI execution and release, an explicitly unbenchmarked Cognitive Operator Layer design candidate, and a structured 2035 future forecast. The archive preserves what the images display; it does not independently verify the underlying architecture, product, safety, capability, experimental-design or forecast claims.
+The collection records public Grounded DI positioning about a determinism stack, governance around AI execution and release, an explicitly unbenchmarked Cognitive Operator Layer design candidate, and a structured 2035 future forecast. The linked entries distinguish the design candidate, forecast, and public-positioning records from their underlying verification evidence.
 
 | # | Subject | Classification |
 |---:|---|---|
@@ -44,7 +44,7 @@ The date prefix on these filenames identifies the archive publication batch. It 
 
 Nine supplied screenshots are preserved in the [12 September collection and gallery](records/2026-09-12/README.md), with stable archive filenames, original image bytes, a source manifest and SHA-256 checksums.
 
-The collection records public Grounded DI posts covering positioning, product commentary, creative commentary, a replay demonstration, legal-workflow risk, engineering-based AI safety, public benchmark claims, authorization boundaries, and ShoppingWise. The archive preserves what the screenshots display; it does not independently verify the underlying product, legal, benchmark, market-statistic or safety claims.
+The collection records public Grounded DI posts covering positioning, product commentary, creative commentary, a replay demonstration, legal-workflow risk, engineering-based AI safety, public benchmark claims, authorization boundaries, and ShoppingWise. The gallery preserves the wording of these posts, with supporting benchmark and replay evidence linked in the relevant project records.
 
 | # | Subject | Classification |
 |---:|---|---|
